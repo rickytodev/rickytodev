@@ -1,4 +1,8 @@
+###
+
 ### Technologies
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -24,7 +28,11 @@
   <img src="https://cdn.simpleicons.org/astro/FF5D01" height="40" alt="astro logo"  />
 </div>
 
+###
+
 ### Music
+
+###
 
 <div align="left" >
   <a href="https://open.spotify.com/user/f0myc69npo8oycf2uk3164hkq" >
@@ -32,7 +40,11 @@
   </a>
 </div>
 
+###
+
 ### Stats
+
+###
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=rickyto-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
