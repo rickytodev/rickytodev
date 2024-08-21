@@ -1,4 +1,4 @@
-<h3 align="left">Soy Ricardo Vega G 🧑🏻‍💻</h3>
+<h3 align="left">Soy Ricardo Vega G</h3>
 
 ###
 
