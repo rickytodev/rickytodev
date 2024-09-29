@@ -63,9 +63,8 @@
 
 <h3 align="left">🔥   Mis estadisticas</h3>
 
-###
-
 <div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=rickytodev&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Streak" /></a>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rickytodev&theme=dark&hide_border=true&locale=es&mode=weekly" alt="GitHub Streak" /></a>
 </div>
 
