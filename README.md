@@ -1,11 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rickytodev/rickytodev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rickytodev/rickytodev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rickytodev/rickytodev/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <h1 align="left">Hola soy 👋🏻 Ricardo Vega G</h1>
 
 ###
