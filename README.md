@@ -108,19 +108,18 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-profile-trophy.vercel.app?username=rickytodev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rickytodev&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=true&bg_color=0,0,0,0,0" height="300" alt="activity-graph graph"  />
 </div>
 
-###
 ###
 
 <h2 align="left">Redes sociales</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/rickyto-dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -141,7 +140,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.paypal.com/paypalme/rickytodev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
   </a>
