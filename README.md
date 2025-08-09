@@ -104,12 +104,12 @@
 
 <h2 align="left">Certificados</h2>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rickytodev&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=true&bg_color=0,0,0,0,0" height="350" alt="activity-graph graph"  />
-
-<h2 align="left">Certificados</h2>
-
-<div align="">
-
+<div align="center">
+  <img src="./resources/certificates/sic-2024.avif" alt="astro logo" width="250"/>
+  <img style="min-width: 20px;" width="20" />
+  <img src="./resources/certificates/sic-badge-2024.avif" alt="astro logo" width="250"/>
+  <img style="min-width: 20px;" width="20" />
+  <img src="./resources/certificates/tec-morelia.avif" alt="astro logo" width="250"/>
 </div>
 
 <h2 align="left">Redes sociales</h2>
