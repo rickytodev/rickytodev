@@ -105,11 +105,17 @@
 <h2 align="left">Certificados</h2>
 
 <div align="center">
-  <img src="./resources/certificates/sic-2024.avif" alt="astro logo" width="250"/>
+  <a href="./resources/documents/sic-2024.pdf" target="_blank">
+    <img src="./resources/certificates/sic-2024.avif" alt="astro logo" width="250"/>
+  </a>
   <img style="min-width: 20px;" width="20" />
-  <img src="./resources/certificates/sic-badge-2024.avif" alt="astro logo" width="250"/>
+  <a href="./resources/documents/sic-badge-2024.pdf" target="_blank">
+    <img src="./resources/certificates/sic-badge-2024.avif" alt="astro logo" width="250"/>
+  </a>
   <img style="min-width: 20px;" width="20" />
-  <img src="./resources/certificates/tec-morelia.avif" alt="astro logo" width="250"/>
+  <a href="./resources/documents/tec-morelia.pdf" target="_blank">
+    <img src="./resources/certificates/tec-morelia.avif" alt="astro logo" width="250"/>
+  </a>
 </div>
 
 <h2 align="left">Redes sociales</h2>
