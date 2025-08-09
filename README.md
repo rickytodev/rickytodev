@@ -6,27 +6,27 @@
 
 <div align="left">
   <img src="./resources/skills/astro.svg" alt="astro logo" height="35" width="35"/>
-  <img style="min-width: 20px;" />
+  <img style="min-width: 20px;" width="20" />
   <img src="./resources/skills/react.svg" alt="react logo" height="35" width="35"/>
-  <img style="min-width: 20px;" />
+  <img style="min-width: 20px;" width="20" />
   <img src="./resources/skills/preact.svg" alt="astro logo" height="35" width="35"/>
-  <img style="min-width: 20px;" />
+  <img style="min-width: 20px;" width="20" />
   <img src="./resources/skills/nextjs.svg" alt="astro logo" height="35" width="35"/>
-  <img style="min-width: 20px;" />
+  <img style="min-width: 20px;" width="20" />
   <img src="./resources/skills/html5.svg" alt="astro logo" height="35" width="35"/>
-  <img style="min-width: 20px;" />
+  <img style="min-width: 20px;" width="20" />
   <img src="./resources/skills/css.svg" alt="astro logo" height="35" width="35"/>
-  <img style="min-width: 20px;" />
+  <img style="min-width: 20px;" width="20" />
   <img src="./resources/skills/javascript.svg" alt="astro logo" height="35" width="35"/>
-  <img style="min-width: 20px;" />
+  <img style="min-width: 20px;" width="20" />
   <img src="./resources/skills/typescript.svg" alt="astro logo" height="35" width="35"/>
-  <img style="min-width: 20px;" />
+  <img style="min-width: 20px;" width="20" />
   <img src="./resources/skills/tailwindcss.svg" alt="astro logo" height="35" width="35"/>
-  <img style="min-width: 20px;" />
+  <img style="min-width: 20px;" width="20" />
   <img src="./resources/skills/vitejs.svg" alt="astro logo" height="35" width="35"/>
-  <img style="min-width: 20px;" />
+  <img style="min-width: 20px;" width="20" />
   <img src="./resources/skills/electron.svg" alt="astro logo" height="35" width="35"/>
-  <img style="min-width: 20px;" />
+  <img style="min-width: 20px;" width="20" />
   <img src="./resources/skills/vitest.svg" alt="astro logo" height="35" width="35"/>
 </div>
 
@@ -34,19 +34,19 @@
 
 <div align="left">
   <img src="./resources/skills/nodejs.svg" alt="astro logo" height="35" width="35"/>
-  <img style="min-width: 20px;" />
+  <img style="min-width: 20px;" width="20" />
   <img src="./resources/skills/expressjs.svg" alt="react logo" height="35" width="35"/>
-  <img style="min-width: 20px;" />
+  <img style="min-width: 20px;" width="20" />
   <img src="./resources/skills/python.svg" alt="astro logo" height="35" width="35"/>
-  <img style="min-width: 20px;" />
+  <img style="min-width: 20px;" width="20" />
   <img src="./resources/skills/flask.svg" alt="astro logo" height="35" width="35"/>
-  <img style="min-width: 20px;" />
+  <img style="min-width: 20px;" width="20" />
   <img src="./resources/skills/sqlite.svg" alt="astro logo" height="35" width="35"/>
-  <img style="min-width: 20px;" />
+  <img style="min-width: 20px;" width="20" />
   <img src="./resources/skills/supabase.svg" alt="astro logo" height="35" width="35"/>
-  <img style="min-width: 20px;" />
+  <img style="min-width: 20px;" width="20" />
   <img src="./resources/skills/graphql.svg" alt="astro logo" height="35" width="35"/>
-  <img style="min-width: 20px;" />
+  <img style="min-width: 20px;" width="20" />
   <img src="./resources/skills/bun.svg" alt="astro logo" height="35" width="35"/>
 </div>
 
@@ -54,15 +54,15 @@
 
 <div align="left">
   <img src="./resources/skills/python.svg" alt="astro logo" height="35" width="35"/>
-  <img style="min-width: 20px;" />
+  <img style="min-width: 20px;" width="20" />
   <img src="./resources/skills/jupyter.svg" alt="react logo" height="35" width="35"/>
-  <img style="min-width: 20px;" />
+  <img style="min-width: 20px;" width="20" />
   <img src="./resources/skills/pandas.svg" alt="astro logo" height="35" width="35"/>
-  <img style="min-width: 20px;" />
+  <img style="min-width: 20px;" width="20" />
   <img src="./resources/skills/matplotlib.svg" alt="astro logo" height="35" width="35"/>
-  <img style="min-width: 20px;" />
+  <img style="min-width: 20px;" width="20" />
   <img src="./resources/skills/tensorflow.svg" alt="astro logo" height="35" width="35"/>
-  <img style="min-width: 20px;" />
+  <img style="min-width: 20px;" width="20" />
   <img src="./resources/skills/scikit-learn.svg" alt="astro logo" height="35" width="35"/>
 </div>
 
@@ -70,31 +70,31 @@
 
 <div align="left">
   <img src="./resources/skills/git.svg" alt="astro logo" height="35" width="35"/>
-  <img style="min-width: 20px;" />
+  <img style="min-width: 20px;" width="20" />
   <img src="./resources/skills/docker.svg" alt="react logo" height="35" width="35"/>
-  <img style="min-width: 20px;" />
+  <img style="min-width: 20px;" width="20" />
   <img src="./resources/skills/github.svg" alt="astro logo" height="35" width="35"/>
-  <img style="min-width: 20px;" />
+  <img style="min-width: 20px;" width="20" />
   <img src="./resources/skills/vscode.svg" alt="astro logo" height="35" width="35"/>
-  <img style="min-width: 20px;" />
+  <img style="min-width: 20px;" width="20" />
   <img src="./resources/skills/figma.svg" alt="astro logo" height="35" width="35"/>
-  <img style="min-width: 20px;" />
+  <img style="min-width: 20px;" width="20" />
   <img src="./resources/skills/postman.svg" alt="astro logo" height="35" width="35"/>
-  <img style="min-width: 20px;" />
+  <img style="min-width: 20px;" width="20" />
   <img src="./resources/skills/notion.svg" alt="astro logo" height="35" width="35"/>
-  <img style="min-width: 20px;" />
+  <img style="min-width: 20px;" width="20" />
   <img src="./resources/skills/markdown.svg" alt="astro logo" height="35" width="35"/>
-  <img style="min-width: 20px;" />
+  <img style="min-width: 20px;" width="20" />
   <img src="./resources/skills/cloudflare.svg" alt="astro logo" height="35" width="35"/>
-  <img style="min-width: 20px;" />
+  <img style="min-width: 20px;" width="20" />
   <img src="./resources/skills/cloudinary.svg" alt="astro logo" height="35" width="35"/>
-  <img style="min-width: 20px;" />
+  <img style="min-width: 20px;" width="20" />
   <img src="./resources/skills/vercel.svg" alt="astro logo" height="35" width="35"/>
-  <img style="min-width: 20px;" />
+  <img style="min-width: 20px;" width="20" />
   <img src="./resources/skills/ubuntu.svg" alt="astro logo" height="35" width="35"/>
-  <img style="min-width: 20px;" />
+  <img style="min-width: 20px;" width="20" />
   <img src="./resources/skills/windows.svg" alt="astro logo" height="35" width="35"/>
-  <img style="min-width: 20px;" />
+  <img style="min-width: 20px;" width="20" />
   <img src="./resources/skills/stackoverflow.svg" alt="astro logo" height="35" width="35"/>
 </div>
 
