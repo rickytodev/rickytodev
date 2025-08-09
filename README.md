@@ -1,10 +1,10 @@
-<h1 align="center">Hola soy 👋🏻 Ricardo Vega G</h1>
+<h1 align="left">Hola soy 👋🏻 Ricardo Vega G</h1>
 
 <p align="left">Me llamo Ricardo Jeshua, pero me conocen como Rick. Empecé en el mundo de la programación a los 13 años, en una Chromebook, y desde entonces he estado aprendiendo y creciendo en este campo.<br><br>Tengo 4 años de experiencia desarrollando tanto aplicaciones web como programas de automatización. He trabajado con una variedad de tecnologías; mi lenguaje favorito es TypeScript.<br><br>Mi objetivo es crear métodos y soluciones que faciliten la vida cotidiana con la ayuda de la tecnología. Me apasiona aprender y mejorar constantemente, y disfruto compartiendo mis conocimientos con los demás.</p>
 
-<h2 align="center">Frontend</h2>
+<h2 align="left">Frontend</h2>
 
-<div align="center">
+<div align="left">
   <img src="./resources/skills/astro.svg" alt="astro logo" height="35" width="35"/>
   <img style="min-width: 10px;" />
   <img src="./resources/skills/react.svg" alt="react logo" height="35" width="35"/>
@@ -30,9 +30,9 @@
   <img src="./resources/skills/vitest.svg" alt="astro logo" height="35" width="35"/>
 </div>
 
-<h2 align="center">Backend</h2>
+<h2 align="left">Backend</h2>
 
-<div align="center">
+<div align="left">
   <img src="./resources/skills/nodejs.svg" alt="astro logo" height="35" width="35"/>
   <img style="min-width: 10px;" />
   <img src="./resources/skills/expressjs.svg" alt="react logo" height="35" width="35"/>
@@ -50,9 +50,9 @@
   <img src="./resources/skills/bun.svg" alt="astro logo" height="35" width="35"/>
 </div>
 
-<h2 align="center">Análisis de datos</h2>
+<h2 align="left">Análisis de datos</h2>
 
-<div align="center">
+<div align="left">
   <img src="./resources/skills/python.svg" alt="astro logo" height="35" width="35"/>
   <img style="min-width: 10px;" />
   <img src="./resources/skills/jupyter.svg" alt="react logo" height="35" width="35"/>
@@ -66,9 +66,9 @@
   <img src="./resources/skills/scikit-learn.svg" alt="astro logo" height="35" width="35"/>
 </div>
 
-<h2 align="center">Herramientas</h2>
+<h2 align="left">Herramientas</h2>
 
-<div align="center">
+<div align="left">
   <img src="./resources/skills/git.svg" alt="astro logo" height="35" width="35"/>
   <img style="min-width: 10px;" />
   <img src="./resources/skills/docker.svg" alt="react logo" height="35" width="35"/>
@@ -98,21 +98,21 @@
   <img src="./resources/skills/stackoverflow.svg" alt="astro logo" height="35" width="35"/>
 </div>
 
-<h2 align="center">Trofeos</h2>
+<h2 align="left">Trofeos</h2>
 
 <img src="https://github-profile-trophy.vercel.app?username=rickytodev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 
-<h2 align="center">Certificados</h2>
+<h2 align="left">Certificados</h2>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rickytodev&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=true&bg_color=0,0,0,0,0" height="350" alt="activity-graph graph"  />
 
-<h2 align="center">Certificados</h2>
+<h2 align="left">Certificados</h2>
 
 <div align="">
 
 </div>
 
-<h2 align="center">Redes sociales</h2>
+<h2 align="left">Redes sociales</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/rickyto-dev/" target="_blank">
@@ -129,7 +129,7 @@
   </a>
 </div>
 
-<h2 align="center">Donaciones</h2>
+<h2 align="left">Donaciones</h2>
 
 <div align="left">
   <a href="https://www.paypal.com/paypalme/rickytodev" target="_blank">
