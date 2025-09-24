@@ -134,11 +134,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="35" width="35" alt="microsoft-outlook logo"  />
   </a>
 </div>
-
-<h2 align="left">Donaciones</h2>
-
-<div align="left">
-  <a href="https://www.paypal.com/paypalme/rickytodev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="35" width="35" alt="paypal logo"  />
-  </a>
-</div>
