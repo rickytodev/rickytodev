@@ -123,9 +123,6 @@
   <a href="https://www.youtube.com/@rickytodev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="35" width="35" alt="youtube logo"  />
   </a>
-  <a href="https://wa.me/3512807332" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="35" width="35" alt="whatsapp logo"  />
-  </a>
   <a href="mailto:contact@rickytodev.xyz" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="35" width="35" alt="microsoft-outlook logo"  />
   </a>
