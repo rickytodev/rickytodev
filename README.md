@@ -98,10 +98,6 @@
   <img src="./resources/skills/stackoverflow.svg" alt="astro logo" height="35" width="35"/>
 </div>
 
-<h2 align="left">Trofeos</h2>
-
-<img src="https://github-profile-trophy.vercel.app?username=rickytodev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-
 <h2 align="left">Certificados</h2>
 
 <div align="center">
