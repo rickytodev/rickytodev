@@ -1,6 +1,6 @@
 <h1 align="left">Hola soy 👋🏻 Ricardo Vega G</h1>
 
-<p align="left">Me llamo Ricardo Jeshua, pero me conocen como Rick. Empecé en el mundo de la programación a los 13 años, en una Chromebook, y desde entonces he estado aprendiendo y creciendo en este campo.<br><br>Tengo 4 años de experiencia desarrollando tanto aplicaciones web como programas de automatización. He trabajado con una variedad de tecnologías; mi lenguaje favorito es TypeScript.<br><br>Mi objetivo es crear métodos y soluciones que faciliten la vida cotidiana con la ayuda de la tecnología. Me apasiona aprender y mejorar constantemente, y disfruto compartiendo mis conocimientos con los demás.</p>
+<p align="left">Me llamo Ricardo Jeshua, pero me conocen como Rick. Empecé en el mundo de la programación a los 13 años, en una Chromebook, y desde entonces he estado aprendiendo y creciendo en este campo.<br><br>Tengo 5 años de experiencia desarrollando tanto aplicaciones web como programas de automatización. He trabajado con una variedad de tecnologías; mi lenguaje favorito es TypeScript.<br><br>Mi objetivo es crear métodos y soluciones que faciliten la vida cotidiana con la ayuda de la tecnología. Me apasiona aprender y mejorar constantemente, y disfruto compartiendo mis conocimientos con los demás.</p>
 
 <h2 align="left">Frontend</h2>
 
